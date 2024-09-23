@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["expo", "prettier"],
+  extends: ["expo", "prettier", "tsconfig.json"],
   plugins: ["prettier", "react-native"],
   rules: {
     "prettier/prettier": "error",
