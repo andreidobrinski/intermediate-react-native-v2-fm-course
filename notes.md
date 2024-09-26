@@ -6,3 +6,5 @@ For images, use:
 
 - [Expo Image](https://docs.expo.dev/versions/latest/sdk/image/)
 - [Fast Image](https://github.com/DylanVann/react-native-fast-image)
+
+[Shadow Generator website](https://ethercreative.github.io/react-native-shadow-generator/)
