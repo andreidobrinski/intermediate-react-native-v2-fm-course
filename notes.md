@@ -31,3 +31,7 @@ npx uri-scheme open plantly://plants/1 --ios
 - need a developer account
 - can be a indiviudal or business account. Need to prove ownership of the business if it's a business acount
 - need to display full address registered to your account if the app is monetized
+
+[figma template for app store assets](https://www.figma.com/community/file/1352686667495694112)
+
+[other helpful links](https://kadikraman.github.io/intermediate-react-native-v2-course/docs/final-words)
