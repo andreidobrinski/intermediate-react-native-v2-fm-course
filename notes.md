@@ -18,3 +18,5 @@ npx uri-scheme open plantly://plants/1 --ios
 ```
 
 - opens to /plants/1
+- can pass params with custom actions into deep links
+- [deep linking docs](https://docs.expo.dev/guides/deep-linking/)
