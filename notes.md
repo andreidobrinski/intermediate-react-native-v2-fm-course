@@ -20,3 +20,14 @@ npx uri-scheme open plantly://plants/1 --ios
 - opens to /plants/1
 - can pass params with custom actions into deep links
 - [deep linking docs](https://docs.expo.dev/guides/deep-linking/)
+
+## EAS
+
+- passing a `--local` flag means that it runs the build locally on your machine
+- it doesn't cost anything, since EAS charges for cloud builds
+
+## Deploying to stores
+
+- need a developer account
+- can be a indiviudal or business account. Need to prove ownership of the business if it's a business acount
+- need to display full address registered to your account if the app is monetized
