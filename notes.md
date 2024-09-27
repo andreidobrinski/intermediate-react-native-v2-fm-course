@@ -10,3 +10,11 @@ For images, use:
 [Shadow Generator website](https://ethercreative.github.io/react-native-shadow-generator/)
 
 [Figma template for icons](https://www.figma.com/community/file/1155362909441341285)
+
+Deep linking
+
+```
+npx uri-scheme open plantly://plants/1 --ios
+```
+
+- opens to /plants/1
